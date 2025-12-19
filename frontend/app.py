@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="FilmAdatbázis")
 st.title("🎬 Saját Filmnaplóm")
 
-BACKEND_URL = "http://127.0.0.1:8000/movies"
+BACKEND_URL = "https://mpny.onrender.com"
 
 with st.sidebar:
     st.header("Új film rögzítése")
