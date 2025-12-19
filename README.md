@@ -48,6 +48,6 @@ pytest
 Online elérhetőségek
 GitHub Repository: [https://github.com/aknaaa1/MPNY]
 
-Backend (Render): [IDE A RENDER LINKED]
+Backend (Render): [https://mpny.onrender.com]
 
-Frontend (Streamlit Cloud): [IDE A STREAMLIT LINKED]
+Frontend (Streamlit Cloud): [https://dzyrkypkvh7tnwf42pbsx9.streamlit.app/]
