@@ -1,9 +1,9 @@
 # 🎬 Filmlista és Statisztikai Mikroszerviz
 
-**Készítette:** [A TE NEVED]  
+**Készítette:** [Juhász Balázs]  
 **Intézmény:** Eszterházy Károly Katolikus Egyetem  
 **Kurzus:** Multi paradigmás programozási nyelvek gyakorlat  
-**Neptun kód:** [A TE NEPTUN KÓDOD]
+**Neptun kód:** [P3ZF3S]
 
 ---
 
