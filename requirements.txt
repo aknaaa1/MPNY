@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+requests
+beautifulsoup4
+pytest
+pandas
