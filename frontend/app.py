@@ -5,7 +5,7 @@ import pandas as pd
 st.set_page_config(page_title="FilmAdatbázis")
 st.title("🎬 Saját Filmnaplóm")
 
-BACKEND_URL = "https://mpny.onrender.com"
+BACKEND_URL = "https://mpny.onrender.com/movies"
 
 with st.sidebar:
     st.header("Új film rögzítése")
@@ -35,4 +35,5 @@ try:
         else:
             st.info("Még nincs mentett filmed.")
 except:
+
     st.warning("Csatlakoztasd a backendet az adatok látványához.")
